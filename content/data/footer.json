@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/unnamed.png",
-        "altText": "Logo light",
+        "altText": "logo",
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
